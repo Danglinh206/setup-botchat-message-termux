@@ -9,7 +9,7 @@
 3. chmod +x ubuntu.sh
 4. ./ubuntu.sh -y
 5. ./startubuntu.sh
-6. apt update && apt upgrade -y && apt install sudo && sudo apt install nodejs && sudo apt install curl -y && sudo apt install git -y
+6. apt update && apt upgrade -y && apt install sudo && sudo apt install nodejs -y && sudo apt install curl -y && sudo apt install git -y
 7. curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 8. source ~/.bashrc
 9. nvm ls-remote
@@ -17,8 +17,9 @@
  # file bot
 
 0. git clone https://github.com/Danglinh206/niiozic-v4
-1. npm 
-2. npm install -g express
-3. cd + tên file
-4. npm i 
+1. pkg install nodejs -y
+2. npm 
+3. npm install -g express
+4. cd niiozic-v4
+5. npm i 
 
