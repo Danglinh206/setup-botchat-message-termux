@@ -14,8 +14,8 @@
 8. source ~/.bashrc
 9. nvm ls-remote
 10. nvm install 14.21.3
-file bot 
-git clone https://github.com/Danglinh206/niiozic-v4
+11.  >file bot<
+12. git clone https://github.com/Danglinh206/niiozic-v4
 
 1. npm 
 2. npm install -g express
