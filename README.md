@@ -21,5 +21,12 @@
 2. npm 
 3. npm install -g express
 4. cd niiozic-v4
-5. npm i 
+5. npm i
+# những lần sau
+1. cd /ubuntu-in-termux/ubuntu-fs/root/niiozic-v4
+2. npm start
+3. or
+4. node .
+5. 
+
 
