@@ -17,11 +17,13 @@
  # file bot
 
 0. git clone https://github.com/Danglinh206/niiozic-v4
-1. pkg install nodejs -y
-2. npm 
-3. npm install -g express
-4. cd niiozic-v4
-5. npm i
+1. 0r
+2. git clone https://github.com/Danglinh206/Black-Goku.git
+3. pkg install nodejs -y
+4. npm 
+5. npm install -g express
+6. cd niiozic-v4
+7. npm i
 # những lần sau
 1. cd /ubuntu-in-termux/ubuntu-fs/root/niiozic-v4
 2. npm start
